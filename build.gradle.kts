@@ -5,7 +5,7 @@ plugins {
 }
 
 repositories {
-    mavenCentral()
+	mavenCentral()
 }
 
 tasks.named<Test>("test") {
