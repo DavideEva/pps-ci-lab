@@ -2,4 +2,5 @@ language: java
 install: true
 
 script:
-    - ’./gradlew clean build’
+    - './gradlew clean build'
+
