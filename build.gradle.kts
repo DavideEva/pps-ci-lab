@@ -1,10 +1,10 @@
 plugins {
-    java
-    scala
+	java
+	scala
 }
 
 repositories {
-    mavenCentral()
+	mavenCentral()
 }
 
 dependencies {

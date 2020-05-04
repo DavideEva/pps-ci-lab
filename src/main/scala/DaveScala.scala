@@ -1,0 +1,6 @@
+/**
+ * Empty class.
+ */
+ class DaveScala {
+
+ }
