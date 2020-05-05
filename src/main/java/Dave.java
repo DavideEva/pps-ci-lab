@@ -2,9 +2,9 @@ public class Dave {
 
     /**
      * Empty main.
-     * @params unused.
+     * @param args ignored.
      */
-    public static void main(String... params) {
+    public static void main(String[] args) {
 
     }
 }
